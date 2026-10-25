@@ -32,7 +32,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Dinosaurguk/BookStore_Website
    ```
 2. Установите необходимые компоненты (Flask, pyodbc):
    ```bash
